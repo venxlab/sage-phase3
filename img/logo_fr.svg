@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="86" viewBox="0 0 86 86">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #202020;
+        fill-opacity: 0;
+        stroke: #fff;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <rect id="BG" class="cls-1" x="3" y="3" width="80" height="80"/>
+</svg>
